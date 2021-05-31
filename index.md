@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
+# Skatehive Guides 
 
-You can use the [editor on GitHub](https://github.com/VladHZC/skatehive.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://i.imgur.com/bAk94vR.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# * English
 
-### Markdown
+*********************************************************************************
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Skatehive
 
-```markdown
-Syntax highlighted code block
+- [About Skatehive](https://hackmd.io/Se1YzrA6TR2LZ4DMD2er0A)
 
-# Header 1
-## Header 2
-### Header 3
+### About Skatehive Community Server
 
-- Bulleted
-- List
+- [About skatehive Comnunity Server](https://hackmd.io/xBZu4lEsQJG-4WyPHpe3SQ)
+- [How to use Discord](https://www.youtube.com/watch?v=rnYGrq95ezA)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Odysee Guide
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Odysee Invite](https://odysee.com/$/invite/@Skatehive#6)
+- [How to make a post on Odysee?](https://lbry.com/faq/how-to-publish)
+- [How does monetization works on Odysee](https://odysee.com/@OdyseeHelp:b/monetization-tutorial:5)
+- [Livestream on Odysee](https://odysee.com/@LexTenebris:9/WALKTHROUGH-How-to-Create-a-Livestream-on-Odysee:5) 
+- [Transconding (if your video loading slowly)](https://odysee.com/@unknownpleasures:e/ffmpeg-if-your-video-is-loading-slowly:c)
+- [Boosting]()  
+- [How to trade LBC ?](https://lbry.com/faq/buy-sell-bittrex)
+- [Swap LBC](https://odysee.com/@Odysee:8/swapcryptoforcredits:4)
+- [Youtube Sync](https://odysee.com/@LBRY-Espa%C3%B1ol:8/SINCRONIZACION:2)
 
-### Jekyll Themes
+### Peakd Guide
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VladHZC/skatehive.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [How to create an account on Peakd]()
+- [How to make a post on Peakd](https://peakd.com/hive-173115/@howweroll/hive-tips-how-to-create-a-post-on-skatehive)
+- [Delegation]() 
+- [More Stuff]()
 
-### Support or Contact
+*********************************************************************************
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# * Portuguese
+
+### Sobre Skatehive 
+
+- [Sobre a Skatehive]()
+- [Como usar o Server da Skatehive](https://hackmd.io/YsySphstSOq-qYo-1Uv2Bg)
+
+
+### Sobre Server da Skatehive
+
+- [Sobre Server da Skatehive]()
+- [Como usar o Discord]()
+
+## Guia Odysee
+
+- [Convite do Odysee](https://odysee.com/$/invite/@odyseebr:1)
+- [Como fazer um post na odysee]()
+- [Como Funciona o Boost]
+- [Como trocar LBC ?](https://odysee.com/@odyseebr:1/troca:0)  
+- [Guia do server](https://odysee.com/@odyseebr:1/server:1)
+- [How to make a channel on Odysee?]()
+
+*********************************************************************************
+
+# * Spanish 
+
+### Acerca de Skatehive
+
+- [Acerca de Skatehive](https://hackmd.io/Se1YzrA6TR2LZ4DMD2er0A?view#Spanish)
+
+---
+
+### Servidor de Discord de Skatehive
+- [Acerca del servidor de la comunidad Skatehive](https://hackmd.io/xBZu4lEsQJG-4WyPHpe3SQ?view#Spanish)
+- [Como usar Discord?]()
+
+---
+
+## Guía Odysee
+
+- [Invitación a Odysee](https://odysee.com/$/invite/@Skatehive#6)
+- [Como hacer un Post en Odysee?](https://lbry.com/faq/how-to-publish)
+- [Transmitir en vivo en Odysee](https://odysee.com/@LexTenebris:9/WALKTHROUGH-How-to-Create-a-Livestream-on-Odysee:5)
+- [Transcodificación (si tu video esta cargando muy lento)](https://odysee.com/@unknownpleasures:e/ffmpeg-if-your-video-is-loading-slowly:c)
+- [Impulsar](#)
+- [Como tradear LBC?](https://lbry.com/faq/buy-sell-bittrex)
+- [Como intercambiar LBC?](https://odysee.com/@Odysee:8/swapcryptoforcredits:4)
+- [Sincronizar Youtube](https://odysee.com/@LBRY-Espa%C3%B1ol:8/SINCRONIZACION:2)
+
+---
+
+## Guía Peakd
+
+- [Como crear una cuenta en Peakd?](https://hackmd.io/j_vJ3yS8QN2VQTQSOqLg2Q?view)
+- [Como hacer un post en Peakd?](https://peakd.com/hive-173115/@howweroll/hive-tips-how-to-create-a-post-on-skatehive)
+- [Delegación](#)
+- [Mas cosas](#)
+- [Youtube Sync](https://odysee.com/@LBRY-Espa%C3%B1ol:8/SINCRONIZACION:2)
+
